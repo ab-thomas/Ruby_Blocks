@@ -1,4 +1,4 @@
-Week 2 Exercise: Ruby_Blocks
+Week 2 Exercise: Ruby Blocks
 ===========
 
 ###An application to approve a mortgage
